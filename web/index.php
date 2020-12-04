@@ -23,3 +23,5 @@ $app->get('/', function() use($app) {
 });
 
 $app->run();
+
+print "TESTING 1 2 3 ANYTHING BUT THAT<br/>\n";
