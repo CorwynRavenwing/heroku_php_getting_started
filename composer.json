@@ -3,7 +3,8 @@
     "monolog/monolog": "^1.22",
     "symfony/flex": "*",
     "symfony/twig-bridge": "^3",
-    "twig/twig": "^2.0"
+    "twig/twig": "^2.0",
+    "alrik11es/cowsayphp": "^1.2"
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
