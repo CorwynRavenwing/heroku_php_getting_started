@@ -27,6 +27,4 @@ $app->get('/cowsay', function() use($app) {
   return "<pre>".\Cowsayphp\Cow::say("Cool beans")."</pre>";
 });
 
-print "TESTING 1 2 3 ANYTHING BUT THAT<br/>\n";
-
 $app->run();
