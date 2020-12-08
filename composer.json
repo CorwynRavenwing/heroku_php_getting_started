@@ -1,7 +1,7 @@
 {
   "require" : {
     "monolog/monolog": "^1.22",
-    "symfony/flex": "*",
+    "silex/silex": "*",
     "symfony/twig-bridge": "^3",
     "twig/twig": "^2.0",
     "alrik11es/cowsayphp": "^1.2"
